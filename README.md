@@ -1,2 +1,2 @@
 # pub-sub
-mqtt ripoff
+mqtt with integrated filehandling
